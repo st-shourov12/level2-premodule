@@ -8,5 +8,8 @@ map.set(course2, {courseID : "level2"});
 // map.clear()
 
 
-map.forEach((value, key)=>console.log("key :", key , "value :",value))
-// console.log(map);
+// map.forEach((value, key)=>console.log("key :", key , "value :",value))
+
+// map.forEach((value, key)=>console.log(key.name = "Easy " + key.name))
+
+console.log(map);
